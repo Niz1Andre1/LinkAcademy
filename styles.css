@@ -1,0 +1,15 @@
+body {
+  background-color: #FFDAB9;
+}
+
+.headings {
+  color: #FA8072;
+}
+
+hr{
+  border-style: dotted;
+  border-top: none;
+  width: 10%;
+  border-color: grey;
+  border-width: 5px;
+}
